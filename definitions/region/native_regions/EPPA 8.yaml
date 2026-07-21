@@ -34,7 +34,7 @@
         ]
     - EPPA 8|China:
         countries: [
-          China, Hong Kong, Macao
+          China, Hong Kong
         ]
     - EPPA 8|India:
         countries: India
@@ -59,15 +59,19 @@
         ]
     - EPPA 8|Latin America:
         countries: [
-          Argentina, Plurinational Republic of Bolivia, Chile, Colombia, Costa Rica, Dominican Republic,
-          Ecuador, Guatemala, Honduras, Jamaica, Nicaragua, Panama, Peru, Puerto Rico, Paraguay, El Salvador,
-          Trinidad and Tobago, Uruguay, Venezuela, Belize, Caribbean, Bermuda, Greenland, Saint Pierre and Miquelon, 
-          Falkland Islands (Malvinas), French Guiana, Guyana, South Georgia and the South Sandwich Islands, Suriname
+          Anguilla, Argentina, Bermuda, Bolivia, Cayman Islands, Chile, Colombia,
+          Costa Rica, Dominican Republic, Ecuador, El Salvador, French Guiana,
+          Guatemala, Haiti, Honduras, Montserrat, Nicaragua, Panama, Paraguay,
+          Peru, Puerto Rico, Suriname, Uruguay, Venezuela, Bahamas, Barbados, Belize,
+          Dominica, Grenada, Guyana, Jamaica, Saint Kitts and Nevis, Saint Lucia,
+          Saint Pierre and Miquelon, Saint Vincent and the Grenadines,
+          Trinidad and Tobago, Turks and Caicos Islands, British Virgin Islands,
+          United States Virgin Islands
         ]
     - EPPA 8|Rest of Asia:
         countries: [
-          Bangladesh, Brunei, Cambodia, Lao People's Democratic Republic, Sri Lanka, Mongolia, Nepal, Pakistan,
-          Viet Nam, Macao Special Administrative Region of China, Democratic People's Republic of Korea, Bhutan,
+          Bangladesh, Brunei, Cambodia, Laos, Sri Lanka, Mongolia, Nepal, Pakistan,
+          Viet Nam, Macao, North Korea, Bhutan,
           Maldives, Myanmar, Timor-Leste
         ]
     - EPPA 8|Korea:
